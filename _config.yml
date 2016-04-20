@@ -2,6 +2,7 @@ name: TheListingEngine
 favicon: null
 layout_spectrum: 0.8445932287722826
 typography_spectrum: 0.9809017663355917
+title: The Listing Engine
 cta:
   domain: null
   bucket: null
