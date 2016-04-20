@@ -1,7 +1,7 @@
 name: TheListingEngine
 favicon: null
-layout_spectrum: 0.8445932287722826
-typography_spectrum: 0.9809017663355917
+layout_spectrum: 0
+typography_spectrum: 0.19957
 title: The Listing Engine
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#1c1819'
-    - '#70716c'
-    - '#deb062'
-    - '#fef8a7'
-    - '#cf8a44'
-  brandStrength: 0.7871596047189087
-  lightness: 1
-  saturation: 0
-  rhythmicContrast: 0.5
+    - '#2c1f02'
+    - '#e9edca'
+    - '#00ffff'
+    - '#ea580f'
+    - '#4b7a21'
+  brandStrength: 1
+  lightness: 0
+  saturation: 0.125
+  rhythmicContrast: 0
 purpose: []
