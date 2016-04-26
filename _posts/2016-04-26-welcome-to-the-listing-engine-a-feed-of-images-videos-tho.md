@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'This grid subsite is mainly concerned with scientific research in nanotechnology, materials science, quantum computing, renewable energy and Brain Machine Interfaces. Also, Space Colonization, Solar System Engineering, and with a general Federovian / Bogdanovite / Verdansky BioCosmist Bent. I think the genesis of the whole thing was this:Welcome to The Listing Engine, a feed of images, videos, thoughts [my own and others] on science fiction, space colonization and exploration, cutting edge material science and nanotechnology, and synthetic biology as well as whatever. Enjoy!'
-datePublished: '2016-04-26T20:09:42.818Z'
-dateModified: '2016-04-26T20:09:34.397Z'
+datePublished: '2016-04-26T20:14:34.117Z'
+dateModified: '2016-04-26T20:11:06.231Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-26-welcome-to-the-listing-engine-a-feed-of-images-videos-tho.md
